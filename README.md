@@ -16,10 +16,10 @@
 ![主界面](doc/gui.png)
 
 ## Raw格式
-适合安装了Cooke hacker插件的chorme浏览器
+适合安装了[Cookie hacker](https://github.com/evilcos/cookiehacker)插件的chorme浏览器
 
 ## Json格式
-适合安装了CookieTheEditer插件的chorme内核浏览器
+适合安装了[EditThisCookie](https://github.com/fcapano/Edit-This-Cookie)插件的chorme内核浏览器
 
 
 ## console格式
